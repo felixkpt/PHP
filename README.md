@@ -12,4 +12,4 @@
 ### fopen()
 > Contains the name of the file you want to open and the second parameter specifies the mode the file should be opened with.
 
-["Find me on LinkedIn"](https://linkedin.com/in/felixkpt, "My LinkedIn profile link")
+[Find me on LinkedIn](https://linkedin.com/in/felixkpt, "My LinkedIn profile link")
