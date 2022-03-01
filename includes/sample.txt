@@ -4,3 +4,6 @@ Skills: Core PHP, Laravel, CodeIgniter, CakePHP, Bootstrap, Vue.js, Node.js, Ine
 Name: John Doe
 Career: Web Developer
 Skills: Multi Talented
+Name: John Doe
+Career: Web Developer
+Skills: Multi Talented
